@@ -39,6 +39,8 @@
 git clone https://github.com/CusJhon/whatsapp-rvo-bot-jhon.git
 cd whatsapp-rvo-bot-jhon
 
+```
+
 2. npm install
 
 3. Setup environment
