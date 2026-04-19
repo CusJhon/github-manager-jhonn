@@ -41,7 +41,7 @@ cd whatsapp-rvo-bot-jhon
 
 ```
 
-2. npm install
+2. *npm install*
 
 3. Setup environment
 Buat file .env lalu isi:
